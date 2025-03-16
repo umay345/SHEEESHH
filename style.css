@@ -1,0 +1,25 @@
+body {
+    font-size: 30pt;
+    background-color: rgb(41, 41, 41);
+}
+p {
+  color: white;
+  text-align: center;
+  font-family: Barriecito-Regular;
+  font-style: normal;
+  font-size: 1.5em;
+  position: center;
+}
+button {
+  transform: translateY(150px) rotateZ(-10deg);
+  font-family: Barriecito-Regular;
+}
+video {
+  position: center;
+  border-radius: 15px;
+}
+@font-face {
+  src: url(/Barriecito-Regular.ttf);
+  font-family: Barriecito-Regular;
+}
+
